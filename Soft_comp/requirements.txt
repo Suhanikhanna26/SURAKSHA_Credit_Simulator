@@ -1,0 +1,4 @@
+pygame
+scikit-learn
+scikit-fuzzy
+numpy
